@@ -21,17 +21,9 @@
 
 ___
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="imgs/logo-ucr.png" alt="Universidad de Costa Rica" width="100" height="50">
-      </td>
-      <td align="center" style="vertical-align: middle;">
-        <img src="imgs/logo-ibm.png" alt="IBM education" width="75" height="30">
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px;">
+  <img src="imgs/logo-ucr.png" alt="Universidad de Costa Rica" width="100" height="50">
+  <img src="imgs/logo-ibm.png" alt="IBM education" width="75" height="30">
 </div>
 
 

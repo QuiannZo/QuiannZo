@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Computer Science and software engineering/development
 <!--
 **QuiannZo/QuiannZo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Computer Science @ Universidad de Costa Rica
+- I enjoy programming and solving problems. Some of my projects can be found here!
+- 🌱 Learning more every day!
+
+<div align="center">
+  <img src="imgs/v1.png" alt="N/A" width="200" height="200">
+</div>
+
+___

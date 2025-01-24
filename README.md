@@ -26,4 +26,5 @@ ___
 
 <div align="center">
   <img src="imgs/logo-ucr.png" alt="N/A" width="100" height="50">
+  <img src="imgs/logo-ibm.png" alt="N/A" width="100" height="50">
 </div>

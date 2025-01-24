@@ -15,9 +15,9 @@
 
 ___
 
-<div align="center">
-  <img src="imgs/logo-ucr.png" alt="N/A" width="100" height="50">
-  <img src="imgs/logo-ibm.png" alt="N/A" width="100" height="50">
+<div style="display: flex; justify-content: center; align-items: center; gap: 16px;">
+  <img src="imgs/logo-ucr.png" alt="Universidad de Costa Rica" width="100" height="50">
+  <img src="imgs/logo-ibm.png" alt="IBM education" width="75" height="30">
 </div>
 
 ___

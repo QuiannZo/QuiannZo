@@ -1,22 +1,13 @@
-## Computer Science and software engineering/development
-<!--
-**QuiannZo/QuiannZo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 🔭 Computer Science @ **Universidad de Costa Rica** (2026).
+- 🌱 Learning about full stack development and data engineering @ **IBM** (2025)!
+- 😄 I enjoy programming and solving problems. Some of my projects can be found here!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- Computer Science @ Universidad de Costa Rica (2026).
-- I enjoy programming and solving problems. Some of my projects can be found here!
-- 🌱 Learning more every day!
+<div style="display: flex; flex-direction: row; align-items: center; gap: 18px;">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <p style="margin: 0;">linkedin.com/in/quiann-zolfaghari/</p>
+</div>
 
 <div align="center">
   <img src="imgs/pokemon.png" alt="N/A" width="200" height="250">
@@ -28,3 +19,5 @@ ___
   <img src="imgs/logo-ucr.png" alt="N/A" width="100" height="50">
   <img src="imgs/logo-ibm.png" alt="N/A" width="100" height="50">
 </div>
+
+___

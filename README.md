@@ -4,9 +4,9 @@
 - 🌱 Learning about full stack development and data engineering @ **IBM** (2025)!
 - 😄 I enjoy programming and solving problems. Some of my projects can be found here!
 
-<div style="display: flex; flex-direction: row; align-items: center; gap: 18px;">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  <span>linkedin.com/in/quiann-zolfaghari/</span>
+<div>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;">
+  <span>&nbsp;linkedin.com/in/quiann-zolfaghari/</span>
 </div>
 
 <div align="center">
@@ -19,6 +19,5 @@ ___
   <img src="imgs/logo-ucr.png" alt="Universidad de Costa Rica" width="100" height="50">
   <img src="imgs/logo-ibm.png" alt="IBM education" width="100" height="50">
 </div>
-
 
 ___

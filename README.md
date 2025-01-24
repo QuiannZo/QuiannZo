@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 - 🌱 Learning more every day!
 
 <div align="center">
-  <img src="imgs/v1.png" alt="N/A" width="200" height="200">
+  <img src="imgs/pokemon.png" alt="N/A" width="200" height="250">
 </div>
 
 ___
+
+<div align="center">
+  <img src="imgs/logo-ucr.png" alt="N/A" width="100" height="50">
+</div>

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Computer Science @ Universidad de Costa Rica
+- Computer Science @ Universidad de Costa Rica (2026).
 - I enjoy programming and solving problems. Some of my projects can be found here!
 - 🌱 Learning more every day!
 

@@ -12,6 +12,10 @@
   <img src="imgs/pokemon.png" alt="N/A" width="200" height="250">
 </div>
 
+<div align="center">
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuiannZo&layout=compact&theme=tokyonight)
+</div>
+
 ___
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px;">

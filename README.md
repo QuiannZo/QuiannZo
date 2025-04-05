@@ -2,7 +2,6 @@
 
 - 🔭 Computer Science @ **Universidad de Costa Rica** (2026).
 - 🌱 Learning about full stack development and data engineering @ **IBM** (2025).
-- 😄 I enjoy programming and solving problems. Some of my projects can be found here.
 
 <div>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;">

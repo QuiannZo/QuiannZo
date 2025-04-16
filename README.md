@@ -12,14 +12,4 @@
   <img src="imgs/pokemon.png" alt="N/A" width="200" height="250">
 </div>
 
-<div align="center">
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuiannZo&layout=compact&theme=tokyonight)
-</div>
 
-___
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px;">
-  <img src="imgs/logo-ucr.png" alt="Universidad de Costa Rica" width="100" height="50">
-</div>
-
-___

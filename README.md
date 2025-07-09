@@ -1,7 +1,7 @@
 ## About me
 
 - 🔭 Computer Science @ **Universidad de Costa Rica** (2026).
-- 🌱 Learning about full stack development and data engineering @ **IBM** (2025).
+- 🌱 Learning about full stack development and AI.
 
 <div>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;">
